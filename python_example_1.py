@@ -1,3 +1,1 @@
-for i in range(1,10):
-    print('Hello World')
-content to append
+# Completely overwriting test file
